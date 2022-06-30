@@ -13,7 +13,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/mustafah6/mustafah6/blob/main/images/code.gif?raw=true" width="450" height="320" />
 
-- 💼 Any freelance work? Do reach, [email:murtazahosseini30@gmail.com](mailto:murtazahosseini30@gmail.com)
+- 💼 Any freelance work? Do reach, [email:mustafahosseini691@gmail.com](mailto:mustafahosseini691@gmail.com)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
