@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-![](https://visitor-badge.glitch.me/badge?page_id=murtazah20.murtazah20)
+![](https://visitor-badge.glitch.me/badge?page_id=mustafah6.mustafah6)
 
 <br />
 
@@ -11,7 +11,7 @@
 🌱 Great experience in Restful API and graphql.<br />
 🌱 Strong experience in git and agile methodology.<br />
 
-<img align="right" alt="GIF" src="https://github.com/murtazah20/murtazah20/blob/main/images/code.gif?raw=true" width="450" height="320" />
+<img align="right" alt="GIF" src="https://github.com/mustafah6/mustafah6/blob/main/images/code.gif?raw=true" width="450" height="320" />
 
 - 💼 Any freelance work? Do reach, [email:murtazahosseini30@gmail.com](mailto:murtazahosseini30@gmail.com)
 - 💬 Ask me about anything, I am happy to help;
@@ -71,7 +71,7 @@ SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░�
 
 📈 My GitHub Stats
 <p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=murtazah20&sshow_icons=true&theme=gotham&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=murtazah20&layout=compact&theme=monokai&count_private=true">
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=mustafah6&sshow_icons=true&theme=gotham&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafah6&layout=compact&theme=monokai&count_private=true">
 </p>
 
